@@ -1,5 +1,3 @@
-Thesis topic:
-"Unsupervised Learning-Based Spectral Microscopy Imaging Ellipsometer"
 
 Abstract :
 
